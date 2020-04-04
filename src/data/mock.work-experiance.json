@@ -1,0 +1,228 @@
+[
+    {
+        "current": true,
+        "location": "Victoria, BC",
+        "company": "Department of Defence",
+        "start": "June 2019",
+        "position": "Developer",
+        "description": "Currently employed on a contract with the Department of Defense. In this contract I have worked specifically as a developer where requirements were provided by either BA or Project Manager.  ",
+        "projects": [
+            {
+                "role": "Developer",
+                "type": "portal",
+                "name": "BMTP",
+                "description": "The BMTP project is a web application that allows armed forces members, enlisted and civilians, to request enhancements and or changes to existing systems, as well as new systems. This provides a means for the creation, management, and approval or rejection of requests made by users. ",
+                "technology": ["C#", "ASP.NET", "WebAPI", "REST", "Vue", "Typescript", "Oracle", "TFS", "Bootstrap", "T4"]
+            },
+            {
+                "role": "Developer",
+                "type": "portal",
+                "name": "Husbandry",
+                "description": "The Husbandry project is a portal that allows a user to identify specific maintenance of any given ship in the navy. The initial project was designed and developed to target paint maintenance, which would allow users to search for specific components of a ship and how to apply the correct paint as well as maintenance, tools used, supplies needed, and application. The system was designed and implemented to allow users to link to existing reference materials with in the Department of Defense, as well as allowing users and system maintainers to upload videos and manages specific tasks.",
+                "technology": ["C#", "ASP.NET", "WebAPI", "REST", "Vue", "Typescript", "Oracle", "TFS", "Bootstrap", "T4"]
+            }
+        ]
+    },
+    {
+        "location": "Toronto, ON",
+        "current": false,
+        "company": "IMCBA",
+        "start": "February 2018",
+        "end": "June 2019",
+        "position": "Senior Developer / Architect",
+        "description": "While at IMCBA I was in a senior development position, with some dev-ops responsibilities on the Microsoft Azure platform. In this position I had continued the design and architecture of a project from my previous position at AgilityCMS, as well as an e-learning platform.",
+        "projects": [
+            {
+                "role": "Developer",
+                "type": "portal",
+                "name": "VisitOrlando",
+                "description": "The VisitOrlando portal is an information and ecommerce application for prospective visitors to the Orlando area, providing information and tickets for attractions, and accommodations. The portal component of VisitOrlando was built on the AgiltyCMS platform and leverage React.NET for server-side rendering. In addition to this a Salesforce integration was created to provide access to internal marketing information used for searching venues and accommodations. ",
+                "technology": ["C#", "ASP.NET", "WebAPI", "REST", "React", "React.NET", "Git", "Agility CMS"]
+            },
+            {
+                "type": "e-commerce",
+                "role": "Developer / Architect",
+                "name": "K12 - School Lunch Orders",
+                "description": "The K12 Project is an ecommerce project for ordering meals for students from Kindergarten to Grade 12. The goal is to replace an existing application with a modern and more usable application than is currently in place and to provide a better experience for both end users, and for administrators. The application is being currently built around the AgilityCMS ecommerce platform and leverages a host of Microsoft Azure features.",
+                "technology": ["C#", "ASP.NET", "WebAPI", "REST", "React", "Pure-Css", "Azure", "MSSQL", "Agility CMS"]
+            },
+            {
+                "type": "e-commerce",
+                "role": "Developer",
+                "name": "Wellwise.ca",
+                "description": "This is a continuation of the original Wellwise.ca project from AgilityCMS. In addition to maintenance to the original project, new work done on the application was added to streamline the checkout process, and to replace the original product management integration with the Brandstem platform with a more robust and manageable product import tool by leveraging Azure WebJobs, Azure LogicApps",
+                "technology": ["Agility CMS", "Knockout", "Pure-Css", "C#", "ASP.NET MVC-5", "Azure", "Git", "Swiftype"]
+            },
+            {
+                "type": "portal",
+                "role": "Developer",
+                "name": "English Montreal School Board ",
+                "description": "The English Montreal School Board (EMSB) is a CMS project designed to host all of the schools in the EMSB. Each school in the board is to have its own custom branded site and will allow the individual schools to manage their own content.",
+                "technology": ["C#", "ASP.NET", "Agility CMS", "Knockout", "Pure-Css", "TFS"]
+            },
+            {
+                "type": "portal",
+                "role": "Developer",
+                "name": "Royal College of Dental Surgeons of Ontario – E-Learning Portal",
+                "description": "The Royal College of Dental Surgeons of Ontario – E-Learning Portal is an application that allows users to take online courses that can be used towards an application the Royal College of Dental Surgeons of Ontario.",
+                "technology": ["C#", "ASP.NET", "Agility CMS", "Vue", "Pure-Css", "TFS"]
+            }
+        ]
+    },
+    {
+        "location": "Toronto, ON",
+        "current": false,
+        "company": "AgilityCMS",
+        "start": "June 2017",
+        "end": "February 2018",
+        "position": ".NET Developer",
+        "description": "A short stay at Agility, but in that short stay I quickly positioned myself in a key design and architectural position, where inputs on new features to the wellwise project were used. Prior to leaving AgilityCMS I had been tasked with the documentation and design architecture of a new ecommerce application.",
+        "projects": [
+            {
+                "type": "e-commerce",
+                "name": "Wellwise.ca",
+                "role": "Developer",
+                "description": "Wellwise.ca is a new ecommerce site based on the AgilityCMS ecommerce platform and is targeted towards the health and wellness community. In addition to the AgilityCMS platform, the site uses a custom cms to cms integration to maintain products",
+                "technology": ["Agility CMS", "Knockout", "Pure-Css", "C#", "ASP.NET MVC-5", "Azure", "TFS", "Swiftype"]
+            }
+        ]
+    },
+    {
+        "location": "Toronto, ON",
+        "current": false,
+        "company": "Jolera",
+        "start": "May 2009",
+        "end": "February 2017",
+        "position": "Senior Developer / Architect",
+        "description": "Over a seven-year period I worked as Jolera's Sr Developer working on small to large projects. This would include tasks such as architecting solutions, creating design documentation, writing technical documentation and end user documentation, developing applications and utilities, managing developer tasks and priorities, and managing the development network and software infrastructure. In this period of time I extended my knowledge and ability to manage Windows Servers, to create and manage virtual environments from Citrix VMWare vSphere to Amazon's EC2 platform, as well pursing my knowledge of the .Net Framework and its subframeorks such as ASP.NET MVC, WebAPI and EntityFRamework to .Net Core and its subframeworks.",
+        "projects": [
+            {
+                "type": "web application",
+                "name": "Synapsis",
+                "role": "Developer",
+                "description": "Synapsis was to provide a 'Single Pane of Glass' experience for Jolera customers to view, manage and purchase services.",
+                "technology": ["Angular 1.x", "ReactJS", "Bootstrap", "D3", "Git"]
+            },
+            {
+                "type": "portal",
+                "name": "Alerts",
+                "role": "Developer",
+                "description": "Alerts is a dashboard used to display, filter, sort issues that are pulled from the NAble RMM platform. In addition, the dashboard allows an administrator to customize what issues are viewable and to assign severity types to specific services to assist in identifying problems for service desk techs. In addition to the dashboard alerts uses a C# .net core web api for consuming soap data from NAble and transforming it into a useable and manageable format.",
+                "technology": ["C#", ".NET Core WebAPI 1.0", "ReactJS", "SQLite3", "GIT"]
+            },
+            {
+                "type": "portal",
+                "name": "Decision Viewer",
+                "role": "Lead Developer",
+                "description": "Decision Viewer is a web application designed to address the increased demand for clearly defined and consolidated situational awareness information to support crisis events and daily operations. Mapping is the DNA of emergency management and the use of ESRI ArcGIS is a corner stone of the “DecisionViewer” solution.",
+                "technology": ["C#", "SharePoint 2013", "Identity Framework 3", "ASP.NET WEBAPI 2", "EntityFramework 6", "Angular 1.6", "Bootstrap", "SQL Server 2014", "Microsoft Azure Cloud Storage", "Hangfire", "SignalR 3", "Git"]
+            },
+            {
+                "type": "web application",
+                "name": "Time and Materials",
+                "role": "Developer / Designer",
+                "description": "Created a web application for managing all of the day to day tasks for managing construction sites and clients. The application was based on an existing Access 97 application and functionality was required to be like for like completeness. This functionality included the ability to create invoices, work order, timesheets, material usage and projects. Data from the Access application was then migrated into the new SQL 2012 server and the Access 97 application was then decommissioned. ",
+                "technology": ["C#", "EntityFramework 6", "SQL Server 2012", "Bootstrap", "Access 97", "Git"]
+            },
+            {
+                "type": "portal",
+                "name": "Halton Intranet Portal",
+                "role": "Developer",
+                "description": "Implemented the Halton region intranet application on their on premise SharePoint 2013 environment, while creating custom webparts while utilizing Angular to control dynamic content.",
+                "technology": ["C#", "SharePoint 2013", "Angular 1.x", "Git"]
+            },
+            {
+                "type": "portal",
+                "name": "Community Stakeholder Network (CSN)",
+                "role": "Developer",
+                "description": "Assisted with the development of a custom SharePoint 2013 web application for assisting in disaster and emergency management. ",
+                "technology": ["C#", "SharePoint 2013", "AWS EC2", "SQL Server 2012", "ESRI Maps", "Git"]
+            },
+            {
+                "type": "portal",
+                "name": "The Life Institute",
+                "role": "Developer / Maintainer",
+                "description": "The Life Institute is a web application allowing users to register and to enroll in classes provided by the University of Ryerson for individuals 50+. Maintenance and minor development was done for this application after taking the project over from another development company.",
+                "technology": ["PHP 4", "MySQL", "nginx"]
+            },
+            {
+                "type": "mobile application",
+                "name": "Pulse Pin",
+                "role": "Lead Developer",
+                "description": "The Pulse Pin applications were a disaster management application platform developed for the USC Annenberg School for Communication and Journalism. The Web application would allow administrators to send message and alerts to students in the event of an emergency and to allow students to send messages to the system alerting other users of potential threats and problems.",
+                "technology": ["C#", "ASP.NET MVC 3", "ASP.NET WebAPI 2", "SQL Server 2008", "iOS 6", "Objective-C 2", "Git"]
+            },
+            {
+                "type": "web application",
+                "name": "Child Data Interface (CDI)",
+                "role": "Lead Developer / Architect",
+                "description": "The Child Data Interface project is a multi-tiered web application designed to assist Plan International Canada to manage their child sponsorship content. The application allows them to download content from services provided by Plan International, validate that content is correct and appropriate for dissemination, print in house content and to provide content to 3rd party print shops. The web application is supported by Windows Services used for downloading content, and the output of content to their appropriate types be it printed media in house, or packaged to be printed at an external print house.",
+                "technology": ["C#", "SQL Server 2008", "Windows Services", "EasyPDF SDK", "ASP.NET MVC2", "Svn"]
+            },
+            {
+                "type": "portal",
+                "name": "IOM",
+                "role": "Developer",
+                "description": "IOM was a platform developed to allow World Vision Canada, to create and manage fundraising sites for any type of event or cause.",
+                "technology": ["C#", "ASP.NET", "SQL Server 2005", "Svn"]
+            },
+            {
+                "type": "portal",
+                "name": "User Provisioning",
+                "role": "Developer / Architect",
+                "description": "User Provisioning was a project that was developed to allow on premise SharePoint 2007 - 2013 clients to manage users without needing to access their domains manually, and to allow users to manage their own passwords. The application would allow users to sign up for windows accounts, which could be approved or denied by a SharePoint administrator, and allow users to recover, reset and unlock their accounts without the need to contact an administrator.",
+                "technology": ["C#", "ASP.NET MVC 1", "ASP.NET MVC 2", "SQL Server 2005", "SharePoint 2007", "SharePoint 2013", "Active Directory"]
+            },
+            {
+                "type": "misc",
+                "name": "Various In-House Utilities",
+                "role": "Developer",
+                "description": "Over a 7-year period, several utilities were created on an as needed basis to solve various business problems. Most of these utilities were to facilitate reporting data from data sources that could not be directly accessed by either Sql Server or Mysql databases. Some of these would include importing of data from Monitis monitoring, and Barracuda hardware solutions.",
+                "technology": ["C#", "EntityFramework", "Python", "Sql Server", "MySql"]
+            }
+        ]
+    },
+    {
+        "location": "Toronto, ON",
+        "current": false,
+        "company": "Bell Canada",
+        "start": "September 2007",
+        "end": "May 2009",
+        "position": "Programmer Analyst",
+        "description": "While at Bell Canada, I worked as a programmer analyst working on primarily one large internal project that was to be used by the Bell Technicians for accessing information about specific systems required for the day to day management of their land line infrastructure. Occasionally smaller projects would be assigned for ETLs in the eFRONT reporting platform.",
+        "projects": [
+            {
+                "role": "Developer",
+                "type": "portal",
+                "name": "Unified Desktop",
+                "description": "Created the architecture for a legacy system unification application. The goal of the application was to unify all legacy applications, black screen mainframe applications, and legacy windows desktop and web applications under one central application. This was done by exposing existing applications via Java Web Services, and unifying them through an ASP.NET web application. Through this process of unifying the existing applications, there was also the requirement to expose telephone hardware as well as a service which would require interfacing directly with DMS hardware.",
+                "technology": ["C#", "WCF", "ASP.NET", "Java", "SOAP", "Svn"]
+            },
+            {
+                "role": "Developer",
+                "type": "forcast module",
+                "name": "Financial Forecasting Module",
+                "description": "Developed a financial forecasting module for an in-house application for forecasting bell and sub-contractor rates over a 1 to n year period.",
+                "technology": ["VB.NET", "SQL Server 2005", "Svn"]
+            }
+        ]
+    },
+    {
+        "location": "Toronto, ON",
+        "current": false,
+        "company": "Exact-IT",
+        "start": "June 2007",
+        "end": "September 2007",
+        "position": "Jr Microsoft Systems Developer ",
+        "description": "Developing Crystal Reports, Windows batch scripts (WIL) for SQL Server 2005 maintenance, T-SQL scripts for the generation of reports and data management"
+    },
+    {
+        "location": "Toronto, ON",
+        "current": false,
+        "company": "World Youth Days 2002",
+        "start": "October 2000",
+        "end": "November 2002",
+        "position": "Web Developer / Web Administrator ",
+        "description": "Deployed load balanced Apache web servers, Postgresql database servers, and maintained the day-to-day operations of both web and database servers. Developed a PHP multi-lingual translation backend for French, Spanish, Italian, German, Polish, Arabic, Portuguese, Korean, Traditional and Simplified Chinese. Developed and Moderated Forum for five languages. Assisted in developing site wide search engine for all supported languages in the administrative backend."
+    }
+]

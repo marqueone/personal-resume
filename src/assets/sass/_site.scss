@@ -353,13 +353,14 @@ body {
 
         span {
             color: $font-color;
+            font-size: 12pt;
+            font-weight: bolder;
         }
     }
 
     span {
         color: $main-color;
         margin-top: 0px;
-        font-size: 10pt;
         line-height: 15pt;
     }
     p {

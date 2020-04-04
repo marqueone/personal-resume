@@ -10,8 +10,7 @@ export const About: FC = () => {
 				<div className="col m12 s12 l9 info wow fadeIn a1" data-wow-delay="0.1s">
 					<div className="section-item-details">
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-							et dolore magna aliqua . Ld do eiusmod tempor incididunt ut labore et dolore magna aliqua
+							insert something here about me, no doubt this will be the last thing I update. 
 						</p>
 					</div>
 				</div>
