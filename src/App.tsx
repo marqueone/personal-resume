@@ -1,7 +1,10 @@
-import React, { FC, Fragment } from 'react';
+import React, { FC } from "react";
 
-const App: FC = () => { 
-  return (<Fragment>temp holder</Fragment>)
-}
+import Resume from "components/pages/resume";
+
+
+const App: FC = () => {
+	return <Resume/>;
+};
 
 export default App;

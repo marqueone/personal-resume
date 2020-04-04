@@ -1,0 +1,191 @@
+[
+    {
+        "name": "C#",
+        "scale": 90,
+        "experiance": "15 years",
+        "core": true,
+        "type": "language"
+    },
+    {
+        "name": ".NET / .NET core",
+        "scale": 90,
+        "experiance": "15 years",
+        "core": true,
+        "type": "framework"
+    },
+    {
+        "name": "Enity Framework / Entity Framework Core",
+        "scale": 75,
+        "experiance": "6 years",
+        "core": true,
+        "type": "framework"
+    },
+    {
+        "name": "ASP.NET MVC / WebAPI",
+        "scale": 80,
+        "experiance": "10 years",
+        "core": true,
+        "type": "framework"
+    },
+    {
+        "name": "Typescript",
+        "scale": 65,
+        "experiance": "1 year",
+        "core": true,
+        "type": "language"
+    },
+    {
+        "name": "Javascript",
+        "scale": 75,
+        "experiance": "15 years",
+        "core": true,
+        "type": "language"
+    },
+    {
+        "name": "T-SQL / PL/SQL / MySql / PG/SQL",
+        "scale": 65,
+        "experiance": "12 years",
+        "core": true,
+        "type": "language"
+    },
+    {
+        "name": "CSS / SASS",
+        "scale": 50,
+        "experiance": "15 years",
+        "core": true,
+        "type": "language"
+    },
+    {
+        "name": "PHP",
+        "scale": 50,
+        "experiance": "3 years",
+        "core": false,
+        "type": "language"
+    },
+    {
+        "name": "Java",
+        "scale": 50,
+        "experiance": "3 years - Accedemic",
+        "core": false,
+        "type": "language"
+    },
+    {
+        "name": "Swift / Objective-C",
+        "scale": 15,
+        "experiance": "1 years",
+        "core": false,
+        "type": "language"
+    },
+    {
+        "name": "Python",
+        "scale": 25,
+        "experiance": "1 years",
+        "core": false,
+        "type": "language"
+    },
+    {
+        "name": "React",
+        "scale": 60,
+        "experiance": "3 years",
+        "core": true,
+        "type": "framework"
+    },
+    {
+        "name": "Vue",
+        "scale": 45,
+        "experiance": "1 years",
+        "core": true,
+        "type": "framework"
+    },
+    {
+        "name": "Angular",
+        "scale": 20,
+        "experiance": "1 years",
+        "core": false,
+        "type": "framework"
+    },
+    {
+        "type": "software",
+        "name": "Visual Studio / Visual Studio for Mac / VS Code",
+        "scale": 9,
+        "core": true,
+        "experiance": "15 years +"
+    },
+    {
+        "type": "software",
+        "name": "Photoshop",
+        "scale": 55,
+        "core": false,
+        "experiance": "15 years +"
+    },
+    {
+        "type": "software",
+        "name": "Microsoft Office",
+        "scale": 50,
+        "core": true,
+        "experiance": "15 years +"
+    },
+    {
+        "type": "software",
+        "name": "CRM Online",
+        "scale": 10,
+        "core": false,
+        "experiance": "1 year"
+    },
+    {
+        "type": "software",
+        "name": "SQL Server / SSMS / Azure Data Studio",
+        "scale": 60,
+        "core": true,
+        "experiance": "13 years"
+    },
+    {
+        "type": "software",
+        "name": "Postgresql",
+        "scale": 50,
+        "core": false,
+        "experiance": "3 years"
+    },
+    {
+        "type": "software",
+        "name": "MySql",
+        "scale": 50,
+        "core": false,
+        "experiance": "3 years"
+    },
+    {
+        "type": "software",
+        "name": "Oracle",
+        "scale": 25,
+        "core": false,
+        "experiance": "1 year"
+    },
+    {
+        "type": "software",
+        "name": "GIT / SVN / TFS",
+        "scale": 60,
+        "core": true,
+        "experiance": "13 years"
+    },
+    {
+        "type": "os",
+        "name": "Windows",
+        "scale": 75,
+        "core": true,
+        "experiance": "15 years +"
+    },
+    {
+        "type": "os",
+        "name": "macOS",
+        "scale": 80,
+        "core": true,
+        "experiance": "15 years +"
+    },
+    {
+        "type": "os",
+        "name": "Linux",
+        "scale": 60,
+        "core": false,
+        "experiance": "15 years +"
+    }
+]
