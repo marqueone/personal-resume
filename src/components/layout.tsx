@@ -10,7 +10,6 @@ const withLayout = <T extends object>(Wrapped: ComponentType<T>) => (props: T): 
 		{ type: "email", name: "personal", value: "mike.sears@maiku.net" },
 		{ type: "email", name: "freelance", value: "mike.sears@marqueone.net" }
 	];
-	const address = [{ type: "home", name: "V8V1V0", value: "Victoria, BC" }];
 
 	return (
 		<div className="container">

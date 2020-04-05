@@ -6,5 +6,6 @@ import { Skills } from "components/tiles/skills";
 // resume tiles
 import { WorkExperiance } from "components/tiles/work-experiance";
 import { EducationExperiance } from "components/tiles/education-experiance";
+import { Projects } from "components/tiles/projects";
 
-export { Profile, About, Contact, Skills, WorkExperiance, EducationExperiance };
+export { Profile, About, Contact, Skills, WorkExperiance, EducationExperiance, Projects };
