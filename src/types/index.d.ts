@@ -29,3 +29,11 @@ export type Employment = {
     projects?: EmploymentProject[];
     end?: string;
 };
+
+export type Education = { 
+    start: string;
+    end: string;
+    school:string
+    program:string;
+    description: string;
+};
