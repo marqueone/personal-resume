@@ -9,6 +9,7 @@ export type Skill = {
     scale: number;
     experiance: string;
     type: string;
+    showInSideBar: boolean;
 };
 
 export type EmploymentProject = {
@@ -37,3 +38,13 @@ export type Education = {
     program:string;
     description: string;
 };
+
+export interface Profile {
+    about: string;
+    items: Item[];
+}
+
+export interface Item {
+    label: string;
+    value: string;
+}

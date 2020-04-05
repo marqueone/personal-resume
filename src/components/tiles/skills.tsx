@@ -17,7 +17,7 @@ export const Skills: FC<Props> = ({ skills }) => {
 				<div className="col m12 l9 s12 skill-line a5 wow fadeIn" data-wow-delay="0.5s">
 					<h3>Core Professional Skills </h3>
 
-					{skills.map((item, idx) => {
+					{skills.filter(item => item.showInSideBar).map((item, idx) => {
 						return (
 							<div key={idx} className="skill-line">
 								<span>{item.name}</span>

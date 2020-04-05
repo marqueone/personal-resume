@@ -1,0 +1,37 @@
+{
+    "about": "Insert something here about me, no doubt this will be the last thing I update.",
+    "items": [
+        {
+            "label": "Status",
+            "value": "Available"
+        },
+        {
+            "label": "Desired Salary",
+            "value": "To Be Discussed"
+        },
+        {
+            "label": "Job Type",
+            "value": "Full-Time Permanent"
+        },
+        {
+            "label": "Mobility",
+            "value": "To Be Discussed"
+        },
+        {
+            "label": "Languages",
+            "value": "English"
+        },
+        {
+            "label": "Industry",
+            "value": "Application and Web Development"
+        },
+        {
+            "label": "Specialty",
+            "value": "Backend Development"
+        },
+        {
+            "label": "Interests",
+            "value": "Software Development, Morotcycles, Photography, Travel, Diving, Cycling"
+        }
+    ]
+}

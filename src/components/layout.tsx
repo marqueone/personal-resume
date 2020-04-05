@@ -2,6 +2,7 @@ import React, { ComponentType, ReactElement } from "react";
 
 import { Profile, About, Contact, Skills } from "components/tiles";
 import skills from "data/mock.skills.json";
+import profile from "data/mock.profile.json";
 
 const withLayout = <T extends object>(Wrapped: ComponentType<T>) => (props: T): ReactElement => {
 	const phoneNumbers = [{ type: "phone", name: "mobile", value: "416-400-6718" }];
@@ -40,15 +41,13 @@ const withLayout = <T extends object>(Wrapped: ComponentType<T>) => (props: T): 
 							</div>
 							<Profile name="Mike Sears" position="Senior .NET Developer" />
 						</div>
-						<About />
+						<About profile={profile}/>
 						{/* MOBILE NUMBER */}
 						<Contact icon={{ prefix: "fas", name: "fa-mobile-alt", size: "2x" }} contacts={phoneNumbers} />
 						{/* EMAIL  */}
 						<Contact icon={{ prefix: "far", name: "fa-envelope", size: "2x" }} contacts={emailAddresses} />
-						{/* ADDRESS */}
-						<Contact icon={{ prefix: "fas", name: "fa-home", size: "2x" }} contacts={address} />
 						{/* SKILLS */}
-						<Skills skills={skills.filter(skill => skill.core)} />
+						<Skills skills={skills} />
 					</div>
 				</aside>
 				<Wrapped {...props} />

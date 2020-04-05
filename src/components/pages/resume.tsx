@@ -1,4 +1,4 @@
-import React, { FC, Fragment } from "react";
+import React, { FC } from "react";
 import withLayout from "components/layout";
 
 import { WorkExperiance, EducationExperiance } from "components/tiles";

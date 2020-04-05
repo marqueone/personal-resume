@@ -16,7 +16,7 @@ export const EducationExperiance: FC<Props> = ({ education }) => {
 
 				{education.map((item, idx) => {
 					return (
-						<div className="custom-content-wrapper wow fadeIn a2">
+						<div className="custom-content-wrapper wow fadeIn a2" key={idx}>
 							<h3>
 								<span>{item.school}</span>: {item.program}
 							</h3>
